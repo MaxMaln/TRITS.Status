@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TRITS.Status</string>
+    <string name="Status_button">История изменений</string>
+    <string name="ListStatus_button">История изменений</string>
+    <string name="ChangeButton">Изменить</string>
+    <string name="ReburnButton">Назад</string>
+    <string name="textView">    Сервис                    Статус</string>
+    <string name="textview2">Выберите статус</string>
+    <string name="checkbox2">Нестабильно</string>
+    <string name="checkbox3">Не работает</string>
+    <string name="checkbox1">Работает</string>
+</resources>
